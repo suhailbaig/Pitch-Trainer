@@ -1,0 +1,8 @@
+streamlit
+openai-whisper
+librosa
+numpy
+scikit-learn
+vaderSentiment
+soundfile
+torch
